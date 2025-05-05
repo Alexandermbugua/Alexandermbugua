@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Alex Mbugua<br>Junior Fullstack Developer | Passionate about building web apps<br><br>🌱 Currently learning:<br><br>Frontend: React, HTML, TailwindCSS<br><br>Backend: Node.js, PHP, MYSQL<br><br>📫 How to reach me:<br>Alexandermbugua4@gmail.com
+<br>👋 Hi, I’m Alex Mbugua<br>Fullstack Web Developer | Passionate about building web apps<br><br>📫 How to reach me:Alexandermbugua4@gmail.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/a.l.e.k.o.?igsh=ZjVicmF5ODNpMzFt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mbu31211787?t=1JMtfMkF7ABrkFql2e1ZIQ&s=09) 
 # 💻 Tech Stack:
